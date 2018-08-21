@@ -209,3 +209,5 @@ if __name__ == "__main__":
 
     # Print comparison done, with number of diffs
     print("Comparison complete, {} differences found".format(diff))
+    
+    
