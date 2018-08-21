@@ -1,13 +1,13 @@
 # NetCmp
 Cadence netlist comparison tool
 
-###Usage
+### Usage
 ```netcmp.py [path to netlist A] [path to netlist_B] [path to report]```
 
-###Output
+### Output
 Produces a csv format output of all differences (component or pin missing, or different net attached).
 
-###Library
+### Library
 
 You can also use it as a library by importing the ```NetCmp``` class.
 
